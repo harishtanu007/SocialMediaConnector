@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SocialMediaConnector</string>
+
+        <string name="twitter_consumer_key" translatable="false">Y22pYQy7KWXSf6QmhMgE2vuZR</string>
+        <string name="twitter_consumer_secret" translatable="false">FA3Oc1YlYtzynHmbE7DfPGhPO84pMflPLdSOKIXLt7dz42khng</string>
+
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">192526881235616</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb192526881235616</string>
+</resources>
